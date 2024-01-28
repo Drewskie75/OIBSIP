@@ -1,2 +1,2 @@
 # OIBSIP
- For all the Data-Science Internship tasks 
+ For all the Oasis Infobyte Data-Science Internship tasks 
